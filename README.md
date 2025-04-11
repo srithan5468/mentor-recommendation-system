@@ -20,7 +20,9 @@ This project implements a machine learning-based recommendation system that matc
 
 ## Installation
 1. Clone this repository:
-git clone [https://github.com/your-username/mentor-recommendation-system.git](https://github.com/srithan5468/mentor-recommendation-system)
+
+git clone https://github.com/srithan5468/mentor-recommendation-system
+
 cd mentor-recommendation
 
 2. Install required packages:
